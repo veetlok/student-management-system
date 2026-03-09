@@ -1,0 +1,1 @@
+print("Ryhmä 7, Hotellivaraus")
