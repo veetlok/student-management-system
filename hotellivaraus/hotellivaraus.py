@@ -1,1 +1,1 @@
-print("Ryhmä 7, Hotellivaraus")
+print("Ryhmä 7, Hotellivaraus.")
